@@ -359,3 +359,11 @@ hr {
 a {
     text-decoration: none;
 }
+
+/* Contact Info CSS */
+
+.contact-info-img {
+    display: flex;
+    justify-content: center;
+    padding: 20px 20px;
+}
