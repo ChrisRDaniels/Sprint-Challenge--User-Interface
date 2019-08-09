@@ -39,7 +39,7 @@ I would describe semantic HTML as a way for developers to markup HTML that conve
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
 1 - display:block; is an element displayed as its own block (does not allow elements next to it unless it is very specifically to do so, such as another element being floated by it)
-2 - inline:display is an element that is set to be disploayed inline with other elements within the current block that it is set in. 
+2 - inline:display is an element that is set to be displayed inline with other elements within the current block that it is set in. 
 
 3. What are the 4 areas of the box model?
 
